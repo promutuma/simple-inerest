@@ -1,0 +1,12 @@
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\bin\Debug\Calculator simple interest.exe.config
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\bin\Debug\Calculator simple interest.exe
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\bin\Debug\Calculator simple interest.pdb
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\bin\Debug\Calculator simple interest.xml
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\obj\Debug\Calculator simple interest.vbprojAssemblyReference.cache
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\obj\Debug\Calculator_simple_interest.Form1.resources
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\obj\Debug\Calculator_simple_interest.Resources.resources
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\obj\Debug\Calculator simple interest.vbproj.GenerateResource.cache
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\obj\Debug\Calculator simple interest.vbproj.CoreCompileInputs.cache
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\obj\Debug\Calculator simple interest.exe
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\obj\Debug\Calculator simple interest.xml
+C:\Users\hp Elitebook\source\repos\Calculator simple interest\Calculator simple interest\obj\Debug\Calculator simple interest.pdb
